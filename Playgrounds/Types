@@ -1,0 +1,14 @@
+var firstDecimal = 3.14159
+var secondDecimal = 2.7
+
+//:  Declare a variable called `trueOrFalse` and give it a boolean value. Try to assign it to `firstDecimal` like so: `firstDecimal = trueOrFalse`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
+var trueOrFalse = false
+
+print("It will not compile because the two variables are not the same type")
+
+//:  Declare a variable and give it a string value. Then try to assign it to `firstDecimal`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
+var words = "Hello, World"
+print("It does not compile because the two variabels are not the same type")
+//:  Finally, declare a variable with a whole number value. Then try to assign it to `firstDecimal`. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
+var number = 27
+print("It will not compile because number is an Int type and firstDecimal is a Double type")
