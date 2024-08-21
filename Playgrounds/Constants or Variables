@@ -1,0 +1,5 @@
+var numberOfLikes = 100
+var numberOfComments = 50
+let yearCreated = 2024
+let monthCreated = "July"
+let dayCreated = 7
