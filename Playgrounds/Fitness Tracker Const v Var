@@ -1,0 +1,10 @@
+let name = "Ryan"
+print("Name is a constant because it does not need to be continually updated")
+var age = 17
+print("age is a variable becuase it wil need to be updated every year on the user's birthday")
+var numberOfSteps = 1567
+print("Number of steps is a variable because it will be updated with every step the user takes")
+let stepGoal = 10000
+print("Step goal is a constant because it will not need to be continually updated throughout the day")
+var avgHeartRate = 87
+print("average heart rate is a variable because it will change as the user moves and raises or lowers their heart rate")
